@@ -1,4 +1,4 @@
-public class MyClass {
+public class Backend {
     public static void main(String args[]) {
         
         List list = new List();
